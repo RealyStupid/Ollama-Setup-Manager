@@ -9,7 +9,7 @@ One is for async, and one for sync.
 depending on your application you may use one of these.
 
 step 1:
-- clone the repo using `git clone https://github.com/RealyStupid/Ollama-Setup-Manager`
+- Download the repo and unzip it
 - Move this repo into your project
 - Install the requirements found inside the repo
 - finally import the scripts into your project
